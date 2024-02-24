@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Hexo",
+    "title": "YRRoomTalk",
     "subtitle": "",
     "icon": "http://example.com/images/favicon.ico",
-    "description": "",
+    "description": "This is the personal blog of YRR.",
     "home_page_url": "http://example.com",
     "items": [
         {

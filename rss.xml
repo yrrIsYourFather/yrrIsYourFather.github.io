@@ -1,14 +1,14 @@
 <?xml version="1.0"?>
 <rss version="2.0">
     <channel>
-        <title>Hexo</title>
+        <title>YRRoomTalk</title>
         <subtitle></subtitle>
         <icon>http://example.com/images/favicon.ico</icon>
         <link>http://example.com</link>
         <author>
-          <name>John Doe</name>
+          <name>yrrIsYourFather</name>
         </author>
-        <description></description>
+        <description>This is the personal blog of YRR.</description>
         <language>en</language>
         <pubDate>Sat, 24 Feb 2024 10:41:58 +0800</pubDate>
         <lastBuildDate>Sat, 24 Feb 2024 10:41:58 +0800</lastBuildDate>
